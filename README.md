@@ -4,7 +4,7 @@ This is program for a school project, and why not make it open source?
 
 ## Program logic (also available in logic.txt):
 
-If master tag is detected, enter program mode and wait for another tag,
+	If master tag is detected, enter program mode and wait for another tag,
 
 	a. if another tag is detected, read it and determine is it "ON" or "OFF"
 
