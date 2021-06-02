@@ -1,6 +1,6 @@
 # Arduino-RFID-security-system
 
-This is program for a school project, and why not make it open source?
+This is for a school project.
 
 ## Program logic (also available in logic.txt):
 
