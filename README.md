@@ -1,4 +1,4 @@
-# Arduino-RFID-security-system
+# Arduino RFID security system
 ![GitHub](https://img.shields.io/github/license/beluguy/Arduino-RFID-security-system)
 
 Welcome to the Github page of my Arduino RFID security system project. Here you will find the [logic of the system](https://github.com/Beluguy/Arduino-RFID-security-system/blob/main/logic.txt), and [Arduino sketches](https://github.com/Beluguy/Arduino-RFID-security-system/tree/main/Arduino%20sketches) for this project.
