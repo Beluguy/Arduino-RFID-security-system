@@ -5,7 +5,7 @@ Welcome to the Github page of my Arduino RFID security system project. Here you 
 
 ### Things I used:
 
-* This [Arduino IDE](https://www.arduino.cc/en/software#download) for an IDE
+* [Arduino IDE](https://www.arduino.cc/en/software#download) for an IDE
 * [This Liquid Crystal library](https://github.com/arduino-libraries/LiquidCrystal) to easily control the LCD
 * [This RFID library](https://github.com/miguelbalboa/rfid) to use the RFID module
 
